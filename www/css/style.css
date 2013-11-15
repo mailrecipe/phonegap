@@ -1,0 +1,86 @@
+.send { font-size: 17px; }
+
+.inquiry
+{
+	background: url(../assets/img/header-bg.jpg) no-repeat center top;
+	margin: 0px;
+	padding: 0px;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 240px;
+	width: 100%;
+	background-size: 100%;
+	background-size: cover;
+	color: #fff;
+}
+.inquiry .container {
+	min-height: 240px;
+	background-color: rgba(0,0,0,0.5);
+}
+.inquiry h3 { color: #fff; }
+
+.customer{
+	background: url(http://alvarez.is/demo/fs2/freelance/assets/img/mint.jpg) no-repeat center top;
+	padding-bottom: 5px;
+	text-align: left;
+}
+.customer .photo{ 
+	max-width: 140px; 
+	margin-top: -60px;
+	border: 15px solid #71B9A5;
+}
+.customer h3{ color: #fff; }
+.customer h4{ color: #fff; }
+.customer h5{ color: #fff; }
+
+body { font-family: "Lato", "Courier New", monospace; }
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/KT3KS9Aol4WfR6Vas8kNcg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/9k-RPmcnxYEPm8CNFsH2gg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/wkfQbvfT_02e2IWO3yYueQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/2HG_tEPiQ4Z6795cGfdivD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/oUan5VrEkpzIazlUe5ieaA.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Raleway Light'), local('Raleway-Light'), url(http://themes.googleusercontent.com/static/fonts/raleway/v6/-_Ctzj9b56b8RgXW8FAriRsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Raleway'), url(http://themes.googleusercontent.com/static/fonts/raleway/v6/IczWvq5y_Cwwv_rBjOtT0w.woff) format('woff');
+}
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Raleway Bold'), local('Raleway-Bold'), url(http://themes.googleusercontent.com/static/fonts/raleway/v6/JbtMzqLaYbbbCL9X6EvaIxsxEYwM7FgeyaSgU71cLG0.woff) format('woff');
+}
